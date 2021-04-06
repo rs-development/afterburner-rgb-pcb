@@ -531,4 +531,15 @@ Wire Wire Line
 Wire Wire Line
 	2500 4000 2250 4000
 NoConn ~ 9300 4100
+$Comp
+L Graphic:Logo_Open_Hardware_Small SYM1
+U 1 1 607341E2
+P 2900 5500
+F 0 "SYM1" H 2900 5775 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 2900 5275 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen" H 2900 5500 50  0001 C CNN
+F 3 "~" H 2900 5500 50  0001 C CNN
+	1    2900 5500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
